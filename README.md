@@ -5,7 +5,7 @@ No real people, companies or loans. Intended for pandas / analytics exercises.
 
 | file | rows | one row = |
 |---|---|---|
-| `applications.csv` | 31 750 | loan application (`raw_bki` — credit bureau response, JSON string) |
+| `applications.csv` | 31 750 | loan application (`raw_bki` — credit bureau response, JSON string: score, active_loans, delinq_90, total_debt) |
 | `loans.csv` | 17 978 | issued loan |
 | `payments.csv` | 19 157 | payment on a loan (a loan may have several or none) |
 
